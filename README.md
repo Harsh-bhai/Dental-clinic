@@ -17,6 +17,6 @@ Bhaskar Dental Care is a Portfolio website and a hospital management website use
 ![Index](./dentist/public/form.jpg)
 
 
-[Link to the Project](https://vmartfrontend.onrender.com/ "V-Mart")
+
 
 
